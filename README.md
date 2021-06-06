@@ -1,0 +1,2 @@
+# create_schema
+mongoDBからダウンロードしたJSONファイルから、BigQuery格納用のスキーマファイルを作成する
